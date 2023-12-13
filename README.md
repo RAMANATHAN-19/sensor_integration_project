@@ -66,7 +66,7 @@ For detailed information about each component, refer to the documentation in the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/RAMANATHAN-19/sensor_integration_project
 ## Deployment
 
 To deploy this project run
@@ -110,8 +110,10 @@ If you would like to contribute to the project, please follow the guidelines out
 
 sensor_project/
 |-- sensor_integration/             
-|   |-- sensor_integration/        
+|   |-- sensor_integration/
+        
 |   |   |-- __init__.py
+
 |   |   |-- asgi.py
 |   |   |-- settings.py
 |   |   |-- urls.py
