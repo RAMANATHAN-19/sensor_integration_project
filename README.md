@@ -110,10 +110,8 @@ If you would like to contribute to the project, please follow the guidelines out
 
 sensor_project/
 |-- sensor_integration/             
-|   |-- sensor_integration/
-        
+|   |-- sensor_integration/        
 |   |   |-- __init__.py
-
 |   |   |-- asgi.py
 |   |   |-- settings.py
 |   |   |-- urls.py
